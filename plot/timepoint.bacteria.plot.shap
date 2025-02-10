@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+python plot2.py Sample_22L004124 Ab1_T30_plus

@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+python plot2.py 23L003027 Ab2_T5_plus
